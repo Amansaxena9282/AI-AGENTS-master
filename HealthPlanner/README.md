@@ -35,5 +35,5 @@ This app generates **personalized daily diet plans** and **weekly workout schedu
 
 ### 1️⃣ Clone this repository
 ```bash
-git clone https://github.com/ASHTOW2102/ai-health-planner.git
+git clone https://github.com/Amansaxena9282/ai-health-planner.git
 cd ai-health-planner

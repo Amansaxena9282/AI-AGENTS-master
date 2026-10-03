@@ -39,7 +39,7 @@ is a `.env` (or Space secret) edit, never a code change.
 Requires Python 3.10+.
 
 ```bash
-git clone https://github.com/ASHTOW2102/AI_AGENTS.git
+git clone https://github.com/Amansaxena9282/AI_AGENTS.git
 cd AI_AGENTS/DocBrief
 python -m venv .venv
 .venv\Scripts\activate        # Windows; use `source .venv/bin/activate` on macOS/Linux
