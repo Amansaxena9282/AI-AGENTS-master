@@ -25,8 +25,8 @@ A growing collection of practical, self-contained AI agents built with Python.
 Clone the repository, choose an agent directory, and follow that agent's README.
 
 ```bash
-git clone https://github.com/ASHTOW2102/AI_AGENTS.git
-cd AI_AGENTS
+git clone https://github.com/Amansaxena9282/AI-AGENTS-master.git
+cd AI-AGENTS-master
 ```
 
 Each agent keeps its own dependencies and environment example. Never commit a populated `.env` file.
